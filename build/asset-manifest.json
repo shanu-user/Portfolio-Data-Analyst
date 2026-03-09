@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Data-Analyst/static/css/main.7f62b1f1.css",
+    "main.js": "/Portfolio-Data-Analyst/static/js/main.51e24fd3.js",
+    "static/js/453.e90f4a34.chunk.js": "/Portfolio-Data-Analyst/static/js/453.e90f4a34.chunk.js",
+    "index.html": "/Portfolio-Data-Analyst/index.html",
+    "main.7f62b1f1.css.map": "/Portfolio-Data-Analyst/static/css/main.7f62b1f1.css.map",
+    "main.51e24fd3.js.map": "/Portfolio-Data-Analyst/static/js/main.51e24fd3.js.map",
+    "453.e90f4a34.chunk.js.map": "/Portfolio-Data-Analyst/static/js/453.e90f4a34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f62b1f1.css",
+    "static/js/main.51e24fd3.js"
+  ]
+}
